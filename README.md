@@ -1,6 +1,6 @@
 # Chatgpt Speech Command 
 
-Chatgpt Speech Command dibuat khusus untuk perintah berbahasa Indonesia dan anda dapat mengubah bahasa sesuai selera.
+Chatgpt Speech Command dibuat khusus untuk perintah berbahasa Indonesia dan respon juga dalam bahasa Indonesia, kemudian anda dapat mengubah bahasa sesuai selera.
 
 Code berjalan pada Linux, ditest dan berjalan baik pada Ubuntu 2022.1 LTS. Sedangkan untuk versi windows akan segera dibuat.
 
