@@ -6,7 +6,7 @@ Code berjalan pada Linux, ditest dan berjalan baik pada Ubuntu 2022.1 LTS. Sedan
 
 Cara install:
 1. Lebih bagus buat environment menggunakan conda
-2. Install dahulu requirements dengan cara pip install -r requirements.txt
+2. Install dahulu requirements dengan cara 'pip install -r requirements.txt'
 3. Install pyaudio menggunakan 'sudo apt install python3-pyaudio'
 
 Jalankan dengan 'python chatgpt-linux.py'
