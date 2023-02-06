@@ -4,7 +4,7 @@ Chatgpt Speech Command dibuat khusus untuk perintah berbahasa Indonesia dan resp
 
 # 1. Versi Linux
 
-Code berjalan pada Linux, ditest dan berjalan baik pada Ubuntu 2022.1 LTS, dan anda bisa menggunakan Linux versi lainnya. 
+Code berjalan pada Linux, ditest dan berjalan baik pada Ubuntu 22.04.1 LTS, dan anda bisa menggunakan Linux versi lainnya. 
 
 Cara install:
 1. Lebih bagus buat environment menggunakan conda
@@ -33,15 +33,15 @@ Selamat mencoba, semoga berhasil. Sama, jangan lupa ngopi ya gan.
 Agan senang adalah kebahagiaan saya :D
 
 # Tips
-Jika anda menemukan opsi seperti ini, anda dapat menghilangkannya secara manual dengan mengedit kode init,
+Jika anda menemukan opsi seperti ini, anda dapat menghilangkannya secara manual dengan mengedit kode __init__.py,
 
 ![bug1](https://user-images.githubusercontent.com/17795544/216879367-467d1aca-ac4b-4a82-ae14-0f489571d192.jpg)
 
-langkah-langkahnya adalah (khusus untuk env menggunakan anaconda atau miniconda), buka menuju Home\anaconda3 atau miniconda\envs\chatgpt (sesuaikan dengan nama env)\Lib\site-packages\speech_recognition lalu cari filr bernama __init__.py. Intinya dari saja file di site-packages lalu cari speech recognition nah didalamnya lah file init tadi.
+langkah-langkahnya adalah (khusus untuk env menggunakan anaconda atau miniconda), buka menuju Home\anaconda3 atau miniconda\envs\chatgpt (sesuaikan dengan nama env)\Lib\site-packages\speech_recognition lalu cari file bernama __init__.py. Intinya cari saja directory site-packages lalu cari directory speech recognition, nah didalamnya lah file __init__.py tadi.
 
 ![bug2](https://user-images.githubusercontent.com/17795544/216879946-1e78c2ab-8365-43ab-b68d-2561d6bbf14f.jpg)
 
-Lalu menuju baris ke 917 dan 918 atau bisa juga dengan fitur pencarian CTRL + F lalu ketik result2, nahh kedua baris tersebut diubah menjadi komentar,
+Lalu menuju baris ke 917 dan 918 atau bisa juga dengan fitur pencarian CTRL + F, dan ketik result2, nahh jika sudah ketemu, ubah kedua baris tersebut menjadi komentar,
 
 ![bug3](https://user-images.githubusercontent.com/17795544/216880356-779cab3b-4bfd-4163-867f-34f47d9ac22b.jpg)
 
