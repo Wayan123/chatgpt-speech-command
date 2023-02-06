@@ -13,3 +13,6 @@ Cara install:
 Jalankan dengan 'python chatgpt-linux.py' 
 
 Selamat mencoba, semoga berhasil. 
+
+
+![bug1](https://user-images.githubusercontent.com/17795544/216879367-467d1aca-ac4b-4a82-ae14-0f489571d192.jpg)
