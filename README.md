@@ -4,7 +4,7 @@ Chatgpt Speech Command dibuat khusus untuk perintah berbahasa Indonesia dan resp
 
 # 1. Versi Linux
 
-Code berjalan pada Linux, ditest dan berjalan baik pada Ubuntu 2022.1 LTS. 
+Code berjalan pada Linux, ditest dan berjalan baik pada Ubuntu 2022.1 LTS, dan anda bisa menggunakan Linux versi lainnya. 
 
 Cara install:
 1. Lebih bagus buat environment menggunakan conda
@@ -18,7 +18,7 @@ Selamat mencoba, semoga berhasil.
 
 # 2. Versi Windows
 
-Code berjalan pada Windows, ditest dan berjalan baik pada Windows 11. 
+Code berjalan pada Windows, ditest dan berjalan baik pada Windows 11, dan anda juga bisa menggunakan windows 8 dan 10. 
 
 Cara install:
 1. Lebih bagus buat environment menggunakan conda
