@@ -28,7 +28,7 @@ Cara install:
 
 Jalankan dengan 'python chatgpt-windows.py' 
 
-Selamat mencoba, semoga berhasil. 
+Selamat mencoba, semoga berhasil. Sama, jangan lupa ngopi ya gan. Agan senang adalah kebahagiaan saya.
 
 # Tips
 Jika anda menemukan opsi seperti ini, anda dapat menghilangkannya secara manual dengan mengedit kode init,
