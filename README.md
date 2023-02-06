@@ -1,4 +1,4 @@
-# ChatGPT Speech Command 
+# ChatGPT with Speech Command 
 
 Chatgpt Speech Command dibuat khusus untuk perintah berbahasa Indonesia dan respon juga dalam bahasa Indonesia, kemudian anda dapat mengubah bahasa sesuai selera.
 
