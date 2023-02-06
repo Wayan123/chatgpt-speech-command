@@ -10,7 +10,7 @@ Cara install:
 1. Lebih bagus buat environment menggunakan conda
 2. Install dahulu requirements dengan cara 'pip install -r requirements-linux.txt'
 3. Install pyaudio menggunakan 'sudo apt install python3-pyaudio'
-4. Edit code python chatgpt-linux.py menggunakan code editor, lalu isi api-key milik kamu di GPT 3 API key.
+4. Edit code python chatgpt-linux.py menggunakan code editor, lalu isi api-key milik kamu di GPT 3 API key. Dapatkan API key disini https://beta.openai.com/account/api-keys.
 
 Jalankan dengan 'python chatgpt-linux.py' 
 
@@ -24,7 +24,7 @@ Cara install:
 1. Lebih bagus buat environment menggunakan conda
 2. Install dahulu requirements dengan cara 'pip install -r requirements-windows.txt'
 3. Install pyaudio menggunakan 'conda install PyAudio'
-4. Edit code python chatgpt-windows.py menggunakan code editor, lalu isi api-key milik kamu di GPT 3 API key.
+4. Edit code python chatgpt-windows.py menggunakan code editor, lalu isi api-key milik kamu di GPT 3 API key. Dapatkan API key disini https://beta.openai.com/account/api-keys
 
 Jalankan dengan 'python chatgpt-windows.py' 
 
