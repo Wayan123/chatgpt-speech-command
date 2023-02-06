@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore")
 
 
 # Get the key from an environment variable on the machine it is running on
-ai.api_key = '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'
+ai.api_key = 'Isi dengan API key GPT 3'
 
 audio_file = "jarvis_record.mp3"
 
