@@ -30,7 +30,7 @@ Jalankan dengan 'python chatgpt-windows.py'
 
 Selamat mencoba, semoga berhasil. Sama, jangan lupa ngopi ya gan. 
 
-Agan senang adalah kebahagiaan saya :D
+Agan senang adalah kebahagiaan saya dan saya pun bisa beli Rubicon :D
 
 # Tips
 Jika anda menemukan opsi seperti ini, anda dapat menghilangkannya secara manual dengan mengedit kode __init__.py,
